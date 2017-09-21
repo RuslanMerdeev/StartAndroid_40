@@ -9,6 +9,15 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/040_1_layoutinflater" />
+            <option value="$PROJECT_DIR$/041_1_layoutinflaterlist" />
+            <option value="$PROJECT_DIR$/042_1_simplelist" />
+            <option value="$PROJECT_DIR$/043_1_simplelistchoice" />
+            <option value="$PROJECT_DIR$/044_1_simplelistevents" />
+            <option value="$PROJECT_DIR$/045_1_expandablelist" />
+            <option value="$PROJECT_DIR$/046_1_expandablelistevents" />
+            <option value="$PROJECT_DIR$/046_2_expandablelistevents" />
+            <option value="$PROJECT_DIR$/048_1_simpleadapter" />
+            <option value="$PROJECT_DIR$/049_1_simpleadaptercustom1" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

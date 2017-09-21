@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleAdapter</string>
+    
+    <string-array name="texts">
+        <item>sometext 1</item>
+        <item>sometext 2</item>
+        <item>sometext 3</item>
+        <item>sometext 4</item>
+        <item>sometext 5</item>
+    </string-array>
+</resources>

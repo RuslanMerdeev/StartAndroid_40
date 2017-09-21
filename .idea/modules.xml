@@ -3,6 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/040_1_layoutinflater/040_1_layoutinflater.iml" filepath="$PROJECT_DIR$/040_1_layoutinflater/040_1_layoutinflater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/041_1_layoutinflaterlist/041_1_layoutinflaterlist.iml" filepath="$PROJECT_DIR$/041_1_layoutinflaterlist/041_1_layoutinflaterlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/042_1_simplelist/042_1_simplelist.iml" filepath="$PROJECT_DIR$/042_1_simplelist/042_1_simplelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/043_1_simplelistchoice/043_1_simplelistchoice.iml" filepath="$PROJECT_DIR$/043_1_simplelistchoice/043_1_simplelistchoice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/044_1_simplelistevents/044_1_simplelistevents.iml" filepath="$PROJECT_DIR$/044_1_simplelistevents/044_1_simplelistevents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/045_1_expandablelist/045_1_expandablelist.iml" filepath="$PROJECT_DIR$/045_1_expandablelist/045_1_expandablelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/046_1_expandablelistevents/046_1_expandablelistevents.iml" filepath="$PROJECT_DIR$/046_1_expandablelistevents/046_1_expandablelistevents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/046_2_expandablelistevents/046_2_expandablelistevents.iml" filepath="$PROJECT_DIR$/046_2_expandablelistevents/046_2_expandablelistevents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/048_1_simpleadapter/048_1_simpleadapter.iml" filepath="$PROJECT_DIR$/048_1_simpleadapter/048_1_simpleadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/049_1_simpleadaptercustom1/049_1_simpleadaptercustom1.iml" filepath="$PROJECT_DIR$/049_1_simpleadaptercustom1/049_1_simpleadaptercustom1.iml" />
       <module fileurl="file://$PROJECT_DIR$/StartAndroid_40.iml" filepath="$PROJECT_DIR$/StartAndroid_40.iml" />
     </modules>
   </component>

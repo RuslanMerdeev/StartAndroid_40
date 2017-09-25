@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="load">
+        <item>41</item>
+        <item>48</item>
+        <item>22</item>
+        <item>35</item>
+        <item>30</item>
+        <item>67</item>
+        <item>51</item>
+        <item>88</item>
+    </integer-array>
+</resources>

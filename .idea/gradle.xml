@@ -18,6 +18,8 @@
             <option value="$PROJECT_DIR$/046_2_expandablelistevents" />
             <option value="$PROJECT_DIR$/048_1_simpleadapter" />
             <option value="$PROJECT_DIR$/049_1_simpleadaptercustom1" />
+            <option value="$PROJECT_DIR$/050_1_simpleadaptercustom2" />
+            <option value="$PROJECT_DIR$/051_1_simpleadapterdata" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

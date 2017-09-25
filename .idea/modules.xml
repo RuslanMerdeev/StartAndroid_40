@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/046_2_expandablelistevents/046_2_expandablelistevents.iml" filepath="$PROJECT_DIR$/046_2_expandablelistevents/046_2_expandablelistevents.iml" />
       <module fileurl="file://$PROJECT_DIR$/048_1_simpleadapter/048_1_simpleadapter.iml" filepath="$PROJECT_DIR$/048_1_simpleadapter/048_1_simpleadapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/049_1_simpleadaptercustom1/049_1_simpleadaptercustom1.iml" filepath="$PROJECT_DIR$/049_1_simpleadaptercustom1/049_1_simpleadaptercustom1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/050_1_simpleadaptercustom2/050_1_simpleadaptercustom2.iml" filepath="$PROJECT_DIR$/050_1_simpleadaptercustom2/050_1_simpleadaptercustom2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/051_1_simpleadapterdata/051_1_simpleadapterdata.iml" filepath="$PROJECT_DIR$/051_1_simpleadapterdata/051_1_simpleadapterdata.iml" />
       <module fileurl="file://$PROJECT_DIR$/StartAndroid_40.iml" filepath="$PROJECT_DIR$/StartAndroid_40.iml" />
     </modules>
   </component>

@@ -31,9 +31,9 @@ public class MainActivity extends AppCompatActivity implements ViewBinder {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        red = getResources().getColor(R.color.Red);
-        orange = getResources().getColor(R.color.Orange);
-        green = getResources().getColor(R.color.Green);
+        red = ContextCompat.getColor(this, R.color.Red);
+        orange = ContextCompat.getColor(this, R.color.Orange);
+        green = ContextCompat.getColor(this, R.color.Green);
 
         int[] load = getResources().getIntArray(R.array.load);
 

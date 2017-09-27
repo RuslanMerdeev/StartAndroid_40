@@ -22,6 +22,8 @@
             <option value="$PROJECT_DIR$/051_1_simpleadapterdata" />
             <option value="$PROJECT_DIR$/052_1_simplecursoradapter" />
             <option value="$PROJECT_DIR$/053_1_simplecursortreeadapter" />
+            <option value="$PROJECT_DIR$/054_1_customadapter" />
+            <option value="$PROJECT_DIR$/055_1_headerfooter" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -25,6 +25,7 @@
             <option value="$PROJECT_DIR$/054_1_customadapter" />
             <option value="$PROJECT_DIR$/055_1_headerfooter" />
             <option value="$PROJECT_DIR$/056_1_spinner" />
+            <option value="$PROJECT_DIR$/057_1_gridview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -27,6 +27,7 @@
             <option value="$PROJECT_DIR$/056_1_spinner" />
             <option value="$PROJECT_DIR$/057_1_gridview" />
             <option value="$PROJECT_DIR$/058_1_timepickerdialog" />
+            <option value="$PROJECT_DIR$/059_1_datepickerdialog" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

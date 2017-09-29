@@ -26,6 +26,7 @@
             <option value="$PROJECT_DIR$/055_1_headerfooter" />
             <option value="$PROJECT_DIR$/056_1_spinner" />
             <option value="$PROJECT_DIR$/057_1_gridview" />
+            <option value="$PROJECT_DIR$/058_1_timepickerdialog" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

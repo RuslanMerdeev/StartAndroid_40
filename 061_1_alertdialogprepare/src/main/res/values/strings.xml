@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlertDialogPrepare</string>
+    <string name="hello">hello</string>
+    <string name="title">Текущее время</string>
+</resources>

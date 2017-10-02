@@ -22,6 +22,8 @@
       <module fileurl="file://$PROJECT_DIR$/057_1_gridview/057_1_gridview.iml" filepath="$PROJECT_DIR$/057_1_gridview/057_1_gridview.iml" />
       <module fileurl="file://$PROJECT_DIR$/058_1_timepickerdialog/058_1_timepickerdialog.iml" filepath="$PROJECT_DIR$/058_1_timepickerdialog/058_1_timepickerdialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/059_1_datepickerdialog/059_1_datepickerdialog.iml" filepath="$PROJECT_DIR$/059_1_datepickerdialog/059_1_datepickerdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/060_1_alertdialogsimple/060_1_alertdialogsimple.iml" filepath="$PROJECT_DIR$/060_1_alertdialogsimple/060_1_alertdialogsimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/061_1_alertdialogprepare/061_1_alertdialogprepare.iml" filepath="$PROJECT_DIR$/061_1_alertdialogprepare/061_1_alertdialogprepare.iml" />
       <module fileurl="file://$PROJECT_DIR$/StartAndroid_40.iml" filepath="$PROJECT_DIR$/StartAndroid_40.iml" />
     </modules>
   </component>

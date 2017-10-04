@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AlertDialogItemsMulti</string>
+    <string name="items">Items</string>
+    <string name="cursor">Cursor</string>
+    <string name="ok">Ok</string>
+    <string-array name="some">
+        <item>sometext1</item>
+        <item>sometext2</item>
+        <item>sometext3</item>
+        <item>sometext4</item>
+    </string-array>
+    <string-array name="data">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+    </string-array>
+</resources>
